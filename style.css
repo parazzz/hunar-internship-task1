@@ -251,14 +251,14 @@ section {
 }
 
 
-/* Media query for smaller screens (adjust the max-width as needed) */
+
 @media (max-width: 768px) {
     .home-sci {
-        position: static; /* Change to static positioning for smaller screens */
-        margin-top: 4rem; /* Adjust margin-top as needed */
+        position: static;
+        margin-top: 4rem;   
     }
 
     .button-box {
-        margin-top: 1rem; /* Adjust margin-top for smaller screens */
+        margin-top: 1rem; 
     }
 }
